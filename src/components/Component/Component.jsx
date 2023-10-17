@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import "./App.css";
+
 
 export default function Component() {
   const [component, setComponent] = useState(0);

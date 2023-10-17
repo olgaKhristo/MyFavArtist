@@ -1,6 +1,6 @@
 import React from 'react';
-import "./App.css"
-import pic from "./queen.jpg"
+
+import pic from "../../../public/queen.jpg"
 export default function Header() {
     return(
         <>

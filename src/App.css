@@ -9,6 +9,9 @@ body {
     color: white;
     font-family:'Courier New', Courier, monospace;
     min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 button {
@@ -30,8 +33,9 @@ header {
     text-align: center;
 }
 header, h1, p,
-form, img,
-.fact-box  
+form, 
+.fact-box,
+img.picture 
  {
     min-height: 10vh;
     display: flex;
