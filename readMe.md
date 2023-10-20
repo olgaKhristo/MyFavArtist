@@ -1,6 +1,13 @@
 # To run this project:
-clone it to your local mashine, do npm install, and npm run dev 
+clone it to your local computer, do: npm install, and to run: npm run dev 
 ## Brief
+
+useState
+useEffect
+useContext
+useReducer
+REDUX
+
 
 #### Music App: 
 
