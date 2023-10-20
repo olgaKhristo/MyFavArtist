@@ -1,6 +1,6 @@
 import React from 'react';
 
-import pic from "../../../public/queen.jpg"
+import pic from "../../img/queen.jpg";
 export default function Header() {
     return(
         <>
